@@ -1,4 +1,4 @@
 board = []
-9.times do board.push ("")
+10.times do board.push ("")
 end
 puts board
